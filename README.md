@@ -54,8 +54,8 @@ fps_indices = fps_sampler.fit(x, initial_subset=[0], b_samples= 100) # Fit FPS t
 
 ## Tutorials
 Explore the tutorials to learn how to use the PAsampling library tools and gain key insights into data sampling in machine learning.\
-    -[Basic key concepts](./PAsampling/Tutorials/basic_concepts.ipynb)\
-    -[Training data selection for regression model performance optimization](./PAsampling/Tutorials/Training_data_selection.ipynb)
+    -[Basic key concepts](./Tutorials/basic_key_concepts.ipynb)\
+    -[Training data selection for regression model performance optimization](./Tutorials/Training_data_selection.ipynb)
 
 
 ## Contributing
